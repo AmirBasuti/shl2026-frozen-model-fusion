@@ -46,8 +46,8 @@ weights are zero.
 ## Quickstart
 
 No third-party Python packages are needed. Use Python 3.11 or newer. The local
-release was tested on Python 3.14.3 on Windows; the included Linux/Windows CI
-matrix has not yet run remotely.
+release was tested on Python 3.14.3 on Windows. The included CI matrix runs on
+Python 3.11–3.14 on Linux and Windows; see [Actions](https://github.com/AmirBasuti/shl2026-frozen-model-fusion/actions) for the current result.
 
 ```sh
 python fusion.py --input examples/synthetic_probabilities.json --output fused_probabilities.json
