@@ -1,0 +1,19 @@
+{
+  "id": "basuti-shl2026",
+  "title": "Early and Late Fusion of Frozen Foundation Models for IMU-Based Human Activity Recognition",
+  "authors": [
+    "Mehdi Mohebbi",
+    "Ali Majlesi",
+    "Amir Basuti",
+    "Iraj Gharaee",
+    "Mohammad Mahdi Azizi",
+    "Bagher BabaAli",
+    "Pouya Mohseni"
+  ],
+  "year": 2026,
+  "venue": "HASCA 2026 / UbiComp/ISWC 2026 Companion",
+  "status": "Accepted; DOI issued",
+  "doi": "10.1145/3798063.3842618",
+  "url": "https://doi.org/10.1145/3798063.3842618",
+  "description": "Early and late fusion of frozen time-series foundation models for IMU-based activity and transportation mode recognition."
+}

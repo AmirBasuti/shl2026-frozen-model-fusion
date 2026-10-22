@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the paper when discussing the study; this repository adds a small reference implementation of its fixed probability fusion."
+type: software
+title: "SHL 2026 Frozen-Model Fusion: Paper Companion"
+authors:
+  - family-names: Basuti
+    given-names: Amir
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Early and Late Fusion of Frozen Foundation Models for IMU-Based Human Activity Recognition"
+  authors:
+    - family-names: Mohebbi
+      given-names: Mehdi
+    - family-names: Majlesi
+      given-names: Ali
+    - family-names: Basuti
+      given-names: Amir
+    - family-names: Gharaee
+      given-names: Iraj
+    - family-names: Azizi
+      given-names: Mohammad Mahdi
+    - family-names: BabaAli
+      given-names: Bagher
+    - family-names: Mohseni
+      given-names: Pouya
+  year: 2026
+  doi: 10.1145/3798063.3842618
+  collection-title: "Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing"
+  notes: "Accepted; DOI issued. Indexing not confirmed here."
